@@ -1,5 +1,5 @@
 1. Create project structure
-2. Implement advanced version control
+2. Master and implement advanced version control
 3. Implement basic features
 4. Add user authentication
 5. Implement task categories
