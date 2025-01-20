@@ -20,7 +20,7 @@ Successfully completed the bonus challenge by:
 2. Introducing conflicting changes in `tasks.txt`
 3. Successfully resolved the merge conflict, as shown below:
 
-![Merge Conflict Resolution]<img width="651" alt="Screenshot 2025-01-20 at 10 35 42 PM" src="https://github.com/user-attachments/assets/dad60593-a49c-4cb0-a50d-c98a81f0595a" />
+![Screenshot 2025-01-20 at 10 35 42 PM](https://github.com/user-attachments/assets/dad60593-a49c-4cb0-a50d-c98a81f0595a)
 
 
 ## 🎓 What I Learned
